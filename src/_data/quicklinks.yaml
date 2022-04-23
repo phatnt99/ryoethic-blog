@@ -1,14 +1,14 @@
 ---
 links:
-  - title: Netlify CMS
-    url: "https://www.netlifycms.org/"
-    desc: Open source content management for your Git workflow
-  - title: Eleventy
-    url: "https://www.11ty.dev/"
-    desc: Eleventy is a simpler static site generator.
-  - title: Alpine.js
-    url: "https://github.com/alpinejs/alpine"
-    desc: A minimal framework for composing JavaScript behavior in your markup.
-  - title: Tailwind CSS
-    url: "https://tailwindcss.com/"
-    desc: A utility-first CSS framework for rapidly building custom designs.
+  - title: My CV
+    url: "https://drive.google.com/file/d/1x7yITTQ_LgWrJm9eVS9DbqD8oGeVBuKr/view?usp=sharing"
+    desc: My CV PDF file as well as the fastest way to glance at what have I done.
+  - title: Vietnamese articles
+    url: "https://viblo.asia/u/phatnguyen99"
+    desc: I have written some technical posts in Vietnamese sharing software development knowledge and hope more IT fields will be involved in my posts.
+  - title: English articles
+    url: "#"
+    desc: I end up decided to delivery more English posts in future that I can receive more comments to improve my knowledge.
+  - title: Linkedin
+    url: "https://www.linkedin.com/in/phat-nguyen-ryo-35711819b/"
+    desc: I would like to invite you joining my network at Linkedin, we can stay connected and share bulk of opportunities in future.
